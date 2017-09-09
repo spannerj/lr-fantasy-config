@@ -1,0 +1,4 @@
+applications:
+  lr-fantasy-api:
+    repo: git@github.com:spannerj/lr-fantasy-api.git
+    branch: master
